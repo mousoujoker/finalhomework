@@ -233,5 +233,5 @@
       Plugin.call($carousel, $carousel.data())
     })
   })
-/* final homework */
+
 }(jQuery);
